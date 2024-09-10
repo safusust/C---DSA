@@ -16,3 +16,4 @@ int main(){
     int n;cin>>n;
     cout<<binarToDecimal(n)<<endl;
 }
+// busy with nasa space app challenge
